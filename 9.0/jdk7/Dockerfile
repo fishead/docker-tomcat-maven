@@ -1,7 +1,7 @@
-# vertion: 0.1
+# version: 0.1
 
 FROM openjdk:7
-MAINTAINER Zhang Chuan <zhangchuan@jcble.com>
+MAINTAINER Zhang Zh. <zhchuan7@gmail.com>
 
 RUN apt update && apt install -y maven
 
